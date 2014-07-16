@@ -4,13 +4,15 @@ L'ambition de ce dépot github est de permettre aux étudiants de la 3wa de pouv
 
 ## Première semaine de dev : javascript ##
 
-Trois exercices qui sont contenus dans le répertoire week1 du dépot. Pour les charger, il suffit de se connecter à la page index.html. 
+Trois exercices qui sont contenus dans le répertoire week1 du dépot. Pour les charger, il suffit de se connecter à la page index.html et de modifier le script js appelé. 
  -LongestString.js
+
  -Table.js
+
  -Histogramme.js
 
 ### LongestString.js ###
-
+ 
 A partir d'un tableau, l'objectif est de trouver la phrase la plus longue.
 
 ### Table.js ###
@@ -20,3 +22,9 @@ L'objectif est de construire une table de multiplication qui dépend des conditi
 ### Histogramme.js ###
 
 A partir d'un tableau, l'objectif est de construire un compteur de mots.
+
+## Deuxième semaine de dev: PHP ##
+ 
+### Incorporer toutes les images d'un répertoire ###
+
+L'idée est d'utiliser la fonction scandir, une boucle for et un $_GET  pour la page spécial.
