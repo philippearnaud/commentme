@@ -24,7 +24,13 @@ L'objectif est de construire une table de multiplication qui dépend des conditi
 A partir d'un tableau, l'objectif est de construire un compteur de mots.
 
 ## Deuxième semaine de dev: PHP ##
- 
-### Incorporer toutes les images d'un répertoire ###
 
-L'idée est d'utiliser la fonction scandir, une boucle for et un $_GET  pour la page spécial.
+### Jour 1: Version 1 du site ###
+
+Objectif: Affichage dynamique des photos d'un site en utilisant la fonction scandir.
+
+### Jour 2: Version 2 du site ###
+
+Objectif: réalisation en php des fonctions permettant d'organiser la pagination des photos du site. 
+
+
