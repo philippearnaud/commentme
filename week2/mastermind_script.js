@@ -1,6 +1,21 @@
-/* 6 couleurs mais 4 pions: 1296 étudiants.
+/*  Consignes
+On veut coder un jeu de Mastermind en js.
 
-   Algorythme
+Pour le moment, on veut juste faire une partie.
+On a 21 essais pour deviner une combinaison de 4 pions
+pouvant prendre 6 couleurs différentes.
+
+(6 couleurs mais 4 pions: 1296 possibilités)
+
+A chaque essai, le programme doit nous dire de manière graphique
+si la bonne couleur est à la bonne position (un avertissement d'une couleur)
+et si la bonne couleur a été trouvé mais n'a pas été trouvé (un avertissement
+d'une autre couleur.)
+
+
+
+
+   Algorithme
 
    Les étapes 
 
@@ -18,6 +33,8 @@
 // PARTIE 1: COMPUTER
 // Choix l'ordinateur combinaison de 4 couleurs. --Working
 
+// Fonction inutile dont je me suis servi pour comprendre le 
+//framework de test qunit.
 function isEven(val) {
 	return val % 2 === 0;
 }
