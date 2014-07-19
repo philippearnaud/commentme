@@ -23,7 +23,7 @@ L'objectif est de construire une table de multiplication qui dépend des conditi
 
 A partir d'un tableau, l'objectif est de construire un compteur de mots.
 
-## Deuxième semaine de dev: PHP ##
+## Deuxième semaine de dev: PHP et JS##
 
 ### Jour 1: Version 1 du site ###
 
@@ -33,4 +33,6 @@ Objectif: Affichage dynamique des photos d'un site en utilisant la fonction scan
 
 Objectif: réalisation en php des fonctions permettant d'organiser la pagination des photos du site. 
 
+### Jour 3: Codage d'un mastermind en javascript ###
 
+Objectif: réussir à coder un jeu de mastermind en javascript.
